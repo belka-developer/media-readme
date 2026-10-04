@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" font-family="Segoe UI, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="960" height="300" fill="#f8fafc" rx="14"/>
+<g font-size="15" text-anchor="middle">
+<rect x="24" y="90" width="170" height="90" rx="12" fill="#fff" stroke="#cbd5e1"/><text x="109" y="125" font-weight="600" fill="#0f172a">Телефон / ПК</text><text x="109" y="148" fill="#64748b">Incy, v2rayN, …</text>
+<rect x="270" y="60" width="430" height="150" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/><text x="485" y="86" font-weight="700" fill="#1d4ed8">fptn-vless.exe (ПК в вашей сети)</text>
+<rect x="288" y="104" width="120" height="86" rx="10" fill="#fff" stroke="#93c5fd"/><text x="348" y="140" font-weight="600" fill="#0f172a">VLESS</text><text x="348" y="162" fill="#64748b">inbound, TCP</text>
+<rect x="424" y="104" width="120" height="86" rx="10" fill="#fff" stroke="#93c5fd"/><text x="484" y="140" font-weight="600" fill="#0f172a">lwIP</text><text x="484" y="162" fill="#64748b">userspace-стек</text>
+<rect x="560" y="104" width="124" height="86" rx="10" fill="#fff" stroke="#93c5fd"/><text x="622" y="140" font-weight="600" fill="#0f172a">libfptn</text><text x="622" y="162" fill="#64748b">клиент FPTN</text>
+<rect x="770" y="90" width="166" height="90" rx="12" fill="#fff" stroke="#cbd5e1"/><text x="853" y="125" font-weight="600" fill="#0f172a">Сервер FPTN</text><text x="853" y="148" fill="#64748b">выбор по пингу</text>
+<rect x="270" y="232" width="430" height="44" rx="10" fill="#fff" stroke="#cbd5e1" stroke-dasharray="4 4"/><text x="485" y="259" fill="#475569">Панель http://127.0.0.1:10801 · трей · failover</text>
+</g>
+<g stroke="#475569" stroke-width="2" marker-end="url(#a)"><path d="M194 135H268"/><path d="M700 135H768"/></g>
+<g font-size="12" fill="#64748b" text-anchor="middle"><text x="231" y="124">VLESS</text><text x="734" y="124">TLS</text></g>
+<g stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 3" fill="none"><path d="M485 210V232"/></g>
+</svg>
