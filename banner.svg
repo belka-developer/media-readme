@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" font-family="Segoe UI, Arial, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect width="960" height="220" rx="18" fill="url(#g)"/>
+<g opacity=".18" stroke="#93c5fd"><path d="M0 60H960M0 110H960M0 160H960"/><path d="M160 0V220M320 0V220M480 0V220M640 0V220M800 0V220"/></g>
+<text x="48" y="92" font-size="44" font-weight="700" fill="url(#t)">media-readme</text>
+<text x="48" y="128" font-size="18" fill="#cbd5e1">картинки и схемы для README моих проектов</text>
+<text x="48" y="168" font-size="14" fill="#94a3b8">t.me/belka_link</text>
+<g fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="4 6"><path d="M560 110H890"/></g>
+<g>
+<rect x="540" y="86" width="48" height="48" rx="10" fill="#1e293b" stroke="#60a5fa"/><circle cx="564" cy="110" r="9" fill="none" stroke="#60a5fa" stroke-width="3"/>
+<rect x="700" y="76" width="68" height="68" rx="12" fill="#1e293b" stroke="#a78bfa"/><text x="734" y="116" font-size="22" font-weight="700" text-anchor="middle" fill="#e2e8f0">img</text>
+<rect x="860" y="86" width="48" height="48" rx="10" fill="#1e293b" stroke="#34d399"/><path d="M872 120l10-12 8 8 6-6 4 6z" fill="#34d399"/>
+</g>
+<circle r="5" cx="590" cy="110" opacity="0" fill="#fbbf24"><animate attributeName="cx" values="590;700;770;860" keyTimes="0;.4;.6;1" dur="2.4s" repeatCount="indefinite"/><animate attributeName="cy" values="110" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle r="5" cx="590" cy="110" opacity="0" fill="#fbbf24"><animate attributeName="cx" values="590;700;770;860" keyTimes="0;.4;.6;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="cy" values="110" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+</svg>
